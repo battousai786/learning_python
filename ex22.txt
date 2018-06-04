@@ -1,0 +1,25 @@
+print(...)
+    print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)
+    
+    Prints the values to a stream, or to sys.stdout by default.
+    Optional keyword arguments:
+    file:  a file-like object (stream); defaults to the current sys.stdout.
+    sep:   string inserted between values, default a space.
+    end:   string appended after the last value, default a newline.
+    flush: whether to forcibly flush the stream.
+############################################################################
+A # in Python is used for a single line comment
+############################################################################
+Some Operators:
++: Plus
+-: Minus
+/: Slash/Floating Point Division
+//: Double Slash/Integer Division which truncates
+*: Asterisk/Multiplication
+%: Percent/Modulus Operator returns the remainder after dividing two numbers
+<: Less-than/Logical comparison that returns true if the number on its left is less than the number on its right
+>: Greater-than
+<=: Less-than-or-equal
+>=: Greater-than-or-equal
+Order of operation is PEMDAS i.e., Parantheses -> Exponent -> Multiplication and Division -> Addition and Subtraction
+############################################################################
